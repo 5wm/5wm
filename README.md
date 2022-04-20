@@ -5,8 +5,11 @@
 --------
 #### Languages I Know!
 | JavaScript |
+| ------------- |
 | HTML/CSS | 
+| ------------- |
 | Python | 
+| ------------- |
 | C/C++ | 
 
 #### Contact Me!
