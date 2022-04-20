@@ -3,13 +3,13 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5wm&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-#### Languages!
+## Languages!
 - **JavaScript**
 - **Python**
 - **C/C++**
 - **HTML/CSS**
 
-#### Contact Me!
+## Contact Me!
 | Email | 
 | ------------- |
 | kimble1337@cyberfear.com | 
