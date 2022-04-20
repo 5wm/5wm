@@ -8,5 +8,5 @@
 | Cyber Security  | JavaScript  |
 | Ethical Hacking| HTML/CSS  |
 | Programming | Python |
-               | C/C++  | 
+| Problem Solving | C/C++  | 
 #### Contact Me!
