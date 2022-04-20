@@ -4,10 +4,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5wm&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 --------
 #### Languages I Know!
-| Python 
-| JavaScript 
-| HTML/CSS  
-| C/C++ 
+------------- 
+ Python  
+ JavaScript 
+ HTML/CSS  
+ C/C++
 
 #### Contact Me!
 | Send Mail!
