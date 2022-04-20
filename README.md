@@ -3,10 +3,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5wm&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-| Skills! | Languages |
+| Skills! | Languages! |
 | ------------- | ------------- |
 | Cyber Security  | JavaScript  |
 | Ethical Hacking| HTML/CSS  |
 | Programming | Python |
-              | C/C++
+                | C/C++
 #### Contact Me!
