@@ -8,4 +8,9 @@
 | JavaScript |
 | Python | 
 | C/C++
-| HTML/CSS | 
+| HTML/CSS |
+
+#### Contact Me!
+| Email! | 
+| ------------- |
+| kimble1337@cyberfear.com | 
