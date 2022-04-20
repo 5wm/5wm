@@ -5,13 +5,8 @@
 --------
 #### Languages I Know!
 ------------- 
- Python  
- JavaScript 
- HTML/CSS  
- C/C++
+| Python
+| -----------
+| Main Language
 
 #### Contact Me!
-| Send Mail!
------------
-| kimble1337@cyberfear.com
---------
