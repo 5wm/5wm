@@ -3,14 +3,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5wm&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-| ------------- | 
-| JavaScript |
-| ------------- | 
-| Python | 
-| ------------- | 
-| C/C++
-| ------------- | 
-| HTML/CSS |
+#### Languages!
+- **JavaScript**
+- **Python**
+- **C/C++**
+- **HTML/CSS**
 
 #### Contact Me!
 | Email | 
