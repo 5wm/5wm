@@ -10,7 +10,6 @@
 - C/C++
 - HTML/CSS
 ```
------------
 | Email | 
 | ------------- |
 | kimble1337@cyberfear.com | 
