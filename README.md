@@ -10,6 +10,12 @@
 - C/C++
 - HTML/CSS
 ```
+### Learning!
+```
+- Assembly 
+- OS Development
+- Socket Development
+```
 | Email | 
 | ------------- |
 | kimble1337@cyberfear.com | 
